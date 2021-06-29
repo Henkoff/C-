@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\primeiroprojetoCsharpdotnet\primeiroprojetoCsharpdotnet\bin\Debug\primeiroprojetoCsharpdotnet.exe.config
+C:\Users\PC\source\repos\primeiroprojetoCsharpdotnet\primeiroprojetoCsharpdotnet\bin\Debug\primeiroprojetoCsharpdotnet.exe
+C:\Users\PC\source\repos\primeiroprojetoCsharpdotnet\primeiroprojetoCsharpdotnet\bin\Debug\primeiroprojetoCsharpdotnet.pdb
+C:\Users\PC\source\repos\primeiroprojetoCsharpdotnet\primeiroprojetoCsharpdotnet\obj\Debug\primeiroprojetoCsharpdotnet.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\primeiroprojetoCsharpdotnet\primeiroprojetoCsharpdotnet\obj\Debug\primeiroprojetoCsharpdotnet.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\primeiroprojetoCsharpdotnet\primeiroprojetoCsharpdotnet\obj\Debug\primeiroprojetoCsharpdotnet.exe
+C:\Users\PC\source\repos\primeiroprojetoCsharpdotnet\primeiroprojetoCsharpdotnet\obj\Debug\primeiroprojetoCsharpdotnet.pdb
